@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="ojdbc6.jar"/>
+	<classpathentry exported="true" kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/Auxilium/Extra/Components/jcommon-1.0.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/Auxilium/Extra/Components/jfreechart-1.0.14-swt.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/Auxilium/Extra/Components/jfreechart-1.0.14.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/Auxilium/Extra/Components/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="src/Auxilium/Extra/Components/itextpdf-5.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
