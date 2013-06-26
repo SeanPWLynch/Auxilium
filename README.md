@@ -1,6 +1,8 @@
 **Auxilium**
 ========
 
+![The super duper AUX LOGO](http://i.imgur.com/3sTmUFA.png)
+
 <i>Background</i>
 =
 
