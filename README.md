@@ -38,3 +38,9 @@ delete this or you will need to reinstall possibly deleting old information on t
 database.
 Copy the auxilium.jar and sql file to all the computers of all users who need 
 access to the system, when launched they will be prompted to log in.
+
+<i>Using Auxilium</i>
+=====================
+
+This is the manual which was submitted to the review board along with the software. Hopefully 
+you find it useful : https://github.com/SeanPWLynch/Auxilium/wiki/Using-Auxilium
