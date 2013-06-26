@@ -8,6 +8,15 @@ import org.jfree.data.category.DefaultCategoryDataset;
 import org.jfree.data.general.DefaultPieDataset;
 import org.jfree.util.Rotation;
 
+/**
+ * This class is used to make graphs on the system. It creates both pie charts and bar charts for each category, such as
+ * the amound of tickets from each department, ticket open time, etc. 
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
+
 public class graphs
 {
 

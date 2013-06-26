@@ -11,6 +11,14 @@ import javax.swing.table.AbstractTableModel;
 import Auxilium.BackEnd.Connections;
 import Auxilium.BackEnd.Database;
 
+/**
+ * This class is a custom made table model to hold all staff members.
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
+
 public class staffTableModel extends AbstractTableModel
 {
 

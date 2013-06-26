@@ -10,6 +10,16 @@ import javax.swing.JOptionPane;
 
 import oracle.jdbc.pool.OracleDataSource;
 
+/**
+ * This class is used to make connections to the database. It also keeps track of all
+ * connections to the database. It tries to keep the max connections to one.
+ * The class deals with creating the connetions and killing them.
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
+
 public class Connections
 {
 	public static ResultSet rset;

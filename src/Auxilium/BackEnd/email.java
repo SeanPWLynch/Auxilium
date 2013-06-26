@@ -16,6 +16,14 @@ import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
 import javax.swing.JOptionPane;
 
+/**
+ * This class is used to create and send out emails. It is also used to send out reports to all the admins on the system.
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
+
 public class email
 {
 	private final static String username = "emailToUseForSending";

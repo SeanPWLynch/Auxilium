@@ -8,6 +8,14 @@ import javax.swing.ComboBoxModel;
 import Auxilium.BackEnd.Connections;
 import Auxilium.BackEnd.Database;
 
+/**
+ * This class is a custom made combo box to hold statuses of tickets.
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
+
 public class statusComboBoxModel extends AbstractListModel implements
 		ComboBoxModel
 {

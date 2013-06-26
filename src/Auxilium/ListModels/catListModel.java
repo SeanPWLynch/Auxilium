@@ -8,6 +8,14 @@ import javax.swing.DefaultListModel;
 import Auxilium.BackEnd.Connections;
 import Auxilium.BackEnd.Database;
 
+/**
+ * This class is a custom made list box to hold categories.
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
+
 public class catListModel extends AbstractListModel
 {
 

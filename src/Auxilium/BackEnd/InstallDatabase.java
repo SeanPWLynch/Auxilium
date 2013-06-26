@@ -5,15 +5,17 @@ import java.util.Random;
 
 import javax.swing.JOptionPane;
 
-public class InstallDatabase
-{
-	/**
+/**
 	 * This class is used to install the database.
 	 * 
 	 * @author Gavin Kenna
 	 * @author Sean Lynch
 	 * @author Jamie Blackbyrne @
 	 */
+
+public class InstallDatabase
+{
+	
 	public static void main(String[] args)
 	{
 		

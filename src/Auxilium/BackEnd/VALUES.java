@@ -1,5 +1,13 @@
 package Auxilium.BackEnd;
 
+/**
+ * This class is used to for debugging purposes, for logging straight into the oracle database.
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
+
 public class VALUES
 {
 	/*

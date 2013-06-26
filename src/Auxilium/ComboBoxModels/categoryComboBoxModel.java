@@ -8,6 +8,14 @@ import javax.swing.ComboBoxModel;
 import Auxilium.BackEnd.Connections;
 import Auxilium.BackEnd.Database;
 
+/**
+ * This class is a custom made combo box to hold categories.
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
+
 public class categoryComboBoxModel extends AbstractListModel implements
 		ComboBoxModel
 {

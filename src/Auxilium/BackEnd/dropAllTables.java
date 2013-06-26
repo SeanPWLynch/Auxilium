@@ -4,6 +4,14 @@ import java.sql.*;
 
 import oracle.jdbc.pool.OracleDataSource;
 
+/**
+ * This class is used for basically reseting the database, to delete all data.
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
+
 public class dropAllTables
 {
 

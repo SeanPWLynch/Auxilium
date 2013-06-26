@@ -34,6 +34,14 @@ import com.itextpdf.text.Section;
 import com.itextpdf.text.pdf.BaseFont;
 import com.itextpdf.text.pdf.PdfWriter;
 
+/**
+ * This class is used to make PDF reports.
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
+
 public class PDF
 {
 	Document document = new Document(PageSize.A4, 50, 50, 50, 50);

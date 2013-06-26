@@ -23,6 +23,13 @@ import javax.swing.border.MatteBorder;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/**
+ * This class is a GUI form to show the about box.
+ * 
+ * @author Gavin Kenna
+ * @author Sean Lynch
+ * @author Jamie Blackbyrne @
+ */
 
 public class about extends JDialog
 {
